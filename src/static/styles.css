@@ -127,7 +127,7 @@ section h3 {
 .delete-btn {
   background-color: rgba(255, 255, 255, 0.2);
   border: none;
-  color: red;
+  color: yellow;
   width: 20px;
   height: 20px;
   border-radius: 50%;
